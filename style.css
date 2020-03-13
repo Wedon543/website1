@@ -1,0 +1,56 @@
+*
+{
+    margin:o;
+    padding:0;
+}
+
+header
+{
+    background-image:url(flower.jpg);
+    height:100vh;
+    background size:cover;
+    background-position:center;
+}
+.nav-bar
+{
+    background rgb(0.5,0,0);
+    height=80px;
+    text-decoration-color: floralwhite;
+    float: left;
+    margin-top: 40px;
+    list-style:none;
+    transition:300ms;
+
+
+    
+}
+
+.nav-bar li
+{
+    display:inline-block;
+}
+.kali{
+    margin:10px 50px;
+    height:60px
+}
+.nav-bar li
+{
+    colour:white;
+    text-decoration: none;
+    font-family:"verdana";
+    font-size:50px;
+    text-align: center;
+    line-height:60px;
+}
+.nav-bar li.active a
+{
+    border:1px solid black;
+}
+.nav-bar li a:hover
+{
+    border:1px solid black;
+}
+
+
+
+    
